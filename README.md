@@ -11,4 +11,4 @@ Follow-up: what if you can't use division?
 
 The code contains two different solutions to solve the same problem.The easy solution uses division. The goal is to compare the time each solution takes to solve the problem for the sample size.
 
-Run driver.py file to exucute the program
+Run driver.py file to execute the program
